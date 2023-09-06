@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritwik Sinha
-- 👀 I’m interested in Artificial Intelligence and Robotics
+- 👀 I’m interested in Robotics and Artificial Intelligence
 - 🌱 I’m currently studying Masters in Autonomous Systems (Dept. Computer Science) at Hochschule Bonn-Rhein-Sieg (H-BRS)- University of Applied Sciences, 
      Sankt Augustin, Germany.
 - 💞️ I’m looking to collaborate on challenging projects which helps in contributing and learning simultanesously. 
